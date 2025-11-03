@@ -41,31 +41,6 @@ But : analyser les caractéristiques clients, segmenter la clientèle et constru
 
 ---
 
-## 📁 Organisation du dépôt
-
-prediction-appetence-clients/
-│
-├── data/
-│ ├── Data_Projet.csv
-│ ├── Data_Projet_New.csv
-│ └── README.md
-│
-├── src/
-│ └── modele_classification.R
-│
-├── notebooks/
-│ └── exploration.Rmd
-│
-├── results/
-│ ├── predictions.csv
-│ ├── confusion_matrix_C5.0.png
-│ └── performance_metrics.txt
-│
-├── LICENSE
-├── .gitignore
-└── README.md
-
-
 ---
 
 ## 👩‍💻 Auteurs
