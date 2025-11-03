@@ -45,6 +45,7 @@ But : analyser les caractéristiques clients, segmenter la clientèle et constru
 
 ## 👩‍💻 Auteurs
 **Yannick KOULONI** — Ingénieur Mathématicien, spécialité Ingénierie Numérique
+
 **BEDJA M. S. Awadi** — Chef de Projet IA, spécialité Ingénierie Numérique
 
 ---
