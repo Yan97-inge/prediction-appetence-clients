@@ -1,0 +1,28 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+.Rproj
+
+# Data & cache
+.DS_Store
+*.csv
+*.RData
+*.rds
+.cache/
+__pycache__/
+
+# Output
+results/
+outputs/
+figures/
+
+# OS files
+Thumbs.db
+desktop.ini
